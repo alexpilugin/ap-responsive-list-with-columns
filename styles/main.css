@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+ul.list-columns {
+  margin: 0.85714em 0;
+  overflow: hidden;
+}
+
+ul.bullets {
+  margin-left: 0;
+  margin-top: 1.28571em;
+  margin-bottom: 1.28571em;
+}
+
+ul.bullets li {
+  padding-top: 0.21429em;
+  padding-bottom: 0.21429em;
+  list-style: none;
+  position: relative;
+  padding-left: 30px;
+}
+
+ul.bullets li:before {
+  color: #999;
+  content: "■ \0000a0";
+  position: absolute;
+
+  top: 1px;
+  left: 4px;
+  width: 22px;
+  height: 22px;
+  font-size: 22px;
+  line-height: 22px;
+  margin-right: 8px;
+}
