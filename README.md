@@ -13,18 +13,9 @@ We have a three-column list. The list items are ordered horizontally, in alphabe
     <td>Eggs</td> 
     <td>Fanta</td>
   </tr>
-</table>
+</table>     
 
-
-| :---        | :---        | :---        |        
-| Apple	      | Banana      | Cheese      |      
-| Didgeridoo  | Eggs  	    | Fanta       |         
-
-What we would like to see is the list items ordered vertically, like this:
-
-| :---        | :---        | :---        |        
-| Apple	      | Cheese      | Eggs        |      
-| Banana      | Didgeridoo  | Fanta       |          
+What we would like to see is the list items ordered vertically, like this:       
 
 <table>
   <tr>
@@ -45,3 +36,13 @@ It needs to look reasonable in Edge, Firefox and Chrome, with a pragmatic fallba
 The solution needs to cope with a shorter list, maybe just two items.     
 The solution needs to handle a smaller screen width.     
 Also provide a solution which uses JavaScript to help solve the problem.     
+
+### Screenshots
+
+![Screenshot 1](https://github.com/alexpilugin/ap-responsive-list-with-columns/blob/main/screenshots/1-column.png "Screenshot 1")
+
+![Screenshot 2](https://github.com/alexpilugin/ap-responsive-list-with-columns/blob/main/screenshots/2-columns.png "Screenshot 2")
+
+![Screenshot 3](https://github.com/alexpilugin/ap-responsive-list-with-columns/blob/main/screenshots/3-columns-1.png "Screenshot 3")
+
+![Screenshot 4](https://github.com/alexpilugin/ap-responsive-list-with-columns/blob/main/screenshots/3-columns-2.png "Screenshot 4")
