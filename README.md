@@ -39,9 +39,9 @@ Also provide a solution which uses JavaScript to help solve the problem.
 
 ### Links to my jsFiddle
 
-[CSS Grid](https://jsfiddle.net/AlexPilugin/jcstoemv/)
+[CSS Grid: https://jsfiddle.net/AlexPilugin/jcstoemv/](https://jsfiddle.net/AlexPilugin/jcstoemv/)
 
-[JavaScript]https://jsfiddle.net/AlexPilugin/dermkw16/)
+[JavaScript: https://jsfiddle.net/AlexPilugin/dermkw16/](https://jsfiddle.net/AlexPilugin/dermkw16/)
 
 ### Screenshots
 
