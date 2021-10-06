@@ -2,15 +2,15 @@
 
 We have a three-column list. The list items are ordered horizontally, in alphabetical order, like this:
 
-|--------------|------------|-----------|
-| Apple	     | Banana    | Cheese  |
-| Didgeridoo | Eggs  	| Fanta     |
+|--------------|------------|-----------|    
+| Apple	     | Banana    | Cheese  |     
+| Didgeridoo | Eggs  	| Fanta     |     
 
 What we would like to see is the list items ordered vertically, like this:
 
-|-----------|--------------|----------|
-| Apple	 | Cheese       | Eggs     |
-| Banana  | Didgeridoo | Fanta    |
+|-----------|--------------|----------|     
+| Apple	 | Cheese       | Eggs     |     
+| Banana  | Didgeridoo | Fanta    |     
 
 
 Try to solve the problem using CSS.    
