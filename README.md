@@ -2,6 +2,19 @@
 
 We have a three-column list. The list items are ordered horizontally, in alphabetical order, like this:
 
+<table>
+  <tr>
+    <td>Apple</td>
+    <td>Banana</td> 
+    <td>Cheese</td>
+  </tr>
+  <tr>
+    <td>Didgeridoo</td>
+    <td>Eggs</td> 
+    <td>Fanta</td>
+  </tr>
+</table>
+
 
 | :---        | :---        | :---        |        
 | Apple	      | Banana      | Cheese      |      
@@ -13,6 +26,18 @@ What we would like to see is the list items ordered vertically, like this:
 | Apple	      | Cheese      | Eggs        |      
 | Banana      | Didgeridoo  | Fanta       |          
 
+<table>
+  <tr>
+    <td>Apple</td>
+    <td>Cheese</td> 
+    <td>Eggs</td>
+  </tr>
+  <tr>
+    <td>Banana</td>
+    <td>Didgeridoo</td> 
+    <td>Fanta</td>
+  </tr>
+</table>
 
 Try to solve the problem using CSS.    
 Do not change the HTML.     
