@@ -35,7 +35,13 @@ Do not change the HTML.
 It needs to look reasonable in Edge, Firefox and Chrome, with a pragmatic fallback for older browsers.     
 The solution needs to cope with a shorter list, maybe just two items.     
 The solution needs to handle a smaller screen width.     
-Also provide a solution which uses JavaScript to help solve the problem.     
+Also provide a solution which uses JavaScript to help solve the problem.   
+
+### Links to my jsFiddle
+
+[CSS Grid](https://jsfiddle.net/AlexPilugin/jcstoemv/)
+
+[JavaScript]https://jsfiddle.net/AlexPilugin/dermkw16/)
 
 ### Screenshots
 
